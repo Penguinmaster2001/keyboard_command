@@ -10,3 +10,5 @@ In order to get this to run at login (at least on gnome 43 or whatever I'm runni
 
 
 If you have tips or suggestions please tell me, and if you modify the script, please upload it to this repository if possible, idk how github works
+
+NOTE: in order for the script to work, I think open-razer and polychromatic have to be installed
